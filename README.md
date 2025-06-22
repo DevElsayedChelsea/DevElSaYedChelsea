@@ -26,9 +26,13 @@ Hi, I'm El-SaYed MoHamed!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-Web development has been always my passion. I still remember coding my first line of code and making it print “ Hello World! ” It was almost magic being able to get the computer to do whatever I wanted
+Web development has been always my passion I still remember coding my first line of code and making it print “ Hello World! ” It was almost magic being able to get the computer to do whatever I wanted
 
-Hi, I'm El-SaYed MoHamed a Back-End Developer with a passion for Problem-Solving And Clean Code. My primary Expertise lies in C# and the ASP.NET
+Hi, I'm El-SaYed MoHamed a Back-end developer with a passion for problem-solving and clean code My primary expertise lies in C# and the ASP.NET Core as well as Object Oriented Programming Microsoft SQL Server , LINQ, EF Core, ASP.NET MVC, ASP.NET APIs, GitHub, Docker, Data Structure, Test-Driven Development, SOLID principles, Design patterns, and Agile Development And Azure DevOps
+
+I also have some skills in front-end technologies such as HTML, CSS, Bootstrap Framework
+
+If you're looking for a skilled back-end developer who is passionate about problem-solving and delivering clean, effective solutions, I would love to connect with you
 </p>
 
 ---
