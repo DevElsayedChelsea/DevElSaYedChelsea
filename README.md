@@ -1,21 +1,26 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
+<h1 align="center">
+Hi, I'm El-SaYed MoHamed!
+ <a href="https://github.com/DevElsayedChelsea" target="_self">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+ </a>
+</h1>
 
-<h3 align="center">
- Hi There I'm El-SaYed MoHamed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<p align="center">
+ <a href="https://github.com/DevElsayedChelsea">
+  <img src="https://komarev.com/ghpvc/?username=DevElsayedChelsea&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+ </a>
+ <a href="https://github.com/DevElsayedChelsea">
+  <img src="https://img.shields.io/github/followers/DevElsayedChelsea?label=Followers" alt="GitHub Followers" />
+ </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;BackEnd%20.NET%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DevElsayedChelsea/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=DevElsayedChelsea"></a>
-</p
-
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/DevElsayedChelsea/main/github-profile.png" width="30%">
 <h1>
   Hi There I'm El-SaYed MoHamed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -26,6 +31,9 @@ Web development has been always my passion. I still remember coding my first lin
 Hi, I'm El-SaYed MoHamed a Back-End Developer with a passion for Problem-Solving And Clean Code. My primary Expertise lies in C# and the ASP.NET
 </p>
 
+---
+
+## <picture><img src="https://github.com/mohamedsaeed138/mohamedsaeed138/raw/main/about_me.gif" width="50px"></picture> **About Me**
 - 👨‍💻 Aspiring Back-End .NET Developer | Future Software Engineer
 - 🌱 Currently focused on building robust back-end systems using:
 C# | ASP.NET Core | Entity Framework Core | SQL Server | RESTful APIs
