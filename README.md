@@ -28,11 +28,16 @@ Hi, I'm El-SaYed MoHamed!
 <p>
 Web development has been always my passion I still remember coding my first line of code and making it print “ Hello World! ” It was almost magic being able to get the computer to do whatever I wanted
 
-Hi, I'm El-SaYed MoHamed a Back-end developer with a passion for problem-solving and clean code My primary expertise lies in C# and the ASP.NET Core as well as Object Oriented Programming Microsoft SQL Server , LINQ, EF Core, ASP.NET MVC, ASP.NET APIs, GitHub, Docker, Data Structure, Test-Driven Development, SOLID principles, Design patterns, and Agile Development And Azure DevOps
+Hi, I'm El-SaYed MoHamed, I'm a passionate .NET Developer who loves turning complex problems into clean, maintainable, and scalable solutions.  
+With a strong focus on C#, ASP.NET Core, and SQL, I’m constantly learning and applying the principles that make great software like SOLID, Clean Architecture, and Design Patterns.
 
-I also have some skills in front-end technologies such as HTML, CSS, Bootstrap Framework
+I’m also building hands-on experience with tools that every modern developer needs: GitHub for version control, Docker for containerization, TDD for writing reliable code, and Azure DevOps for efficient team collaboration and CI/CD.
 
-If you're looking for a skilled back-end developer who is passionate about problem-solving and delivering clean, effective solutions, I would love to connect with you
+In addition to my back-end skills, I have experience with front-end basics like HTML, CSS, and the Bootstrap framework giving me a well rounded understanding of the full development process.
+
+What drives me every day is my love for problem-solving, my curiosity for how things work, and my desire to grow into a world-class software engineer.
+
+If you're looking for a motivated back-end developer who is committed to continuous improvement and delivering solid, effective solutions let’s connect and grow together
 </p>
 
 ---
