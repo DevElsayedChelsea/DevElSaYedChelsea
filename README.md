@@ -62,28 +62,19 @@ C# | ASP.NET Core | Entity Framework Core | SQL Server | RESTful APIs
 ---
 
 ### 🛠️ Tech Stack  
-**Languages & Tools:**  
+<!-- Back-End & Database Skills -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,dapper" />
+  <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-300x300.png" width="50" height="50" alt="EF Core" />
+  <img src="https://dignitas.digital/wp-content/uploads/2022/01/SignalR.jpg" width="80" height="80" alt="SignalR" />
+  <img src="https://www.ubk.cz/wp-content/uploads/2020/03/microsoft-azure-vector-logo.png" width="80" height="80" alt="Azura" />
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=redis" />
 </p>
 
-
-#### 🖥️ Frameworks
-
+<strong>Front-End:</strong><br>
 <p align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" />
-    <div style="font-size: 14px; color: #000;">ASP.NET Core</div>
-  </div>
+  <img height="75" src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
-
-
-
 
 #### 🔧 Tools
 
