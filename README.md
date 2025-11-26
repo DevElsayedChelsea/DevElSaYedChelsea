@@ -61,8 +61,8 @@ C# | ASP.NET Core | Entity Framework Core | SQL Server | RESTful APIs
 
 ---
 
-### 🛠️ Tech Stack  
-<!-- Back-End & Database Skills -->
+### 🛠️ <strong>Back-End & Database:</strong><br>
+<!-- Back-End Database Skills -->
 <p align="left">
   <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,dapper" />
   <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-300x300.png" width="50" height="50" alt="EF Core" />
