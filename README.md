@@ -1,125 +1,97 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0ea5e9,100:9333ea&section=header&text=El-Sayed%20Mohamed&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </div>
-<h1 align="center">
-Hi, I'm El-SaYed MoHamed!
- <a href="https://github.com/DevElsayedChelsea" target="_self">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
- </a>
-</h1>
+
+<h1 align="center">Hi 👋, I'm El-SaYed MoHameD</h1>
+<h3 align="center">🔥 .NET Backend Developer | Building Scalable Systems</h3>
 
 <p align="center">
- <a href="https://github.com/DevElsayedChelsea">
-  <img src="https://komarev.com/ghpvc/?username=DevElsayedChelsea&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
- </a>
- <a href="https://github.com/DevElsayedChelsea">
-  <img src="https://img.shields.io/github/followers/DevElsayedChelsea?label=Followers" alt="GitHub Followers" />
- </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Developer;C%23%20%7C%20ASP.NET%20Core;Clean%20Architecture%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;BackEnd%20.NET%20Core%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
-<h1>
-  Hi There I'm El-SaYed MoHamed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p>
-Web development has been always my passion I still remember coding my first line of code and making it print “ Hello World! ” It was almost magic being able to get the computer to do whatever I wanted
-
-Hi, I'm El-SaYed MoHamed, I'm a passionate .NET Developer who loves turning complex problems into clean, maintainable, and scalable solutions.  
-With a strong focus on C#, ASP.NET Core, and SQL, I’m constantly learning and applying the principles that make great software like SOLID, Clean Architecture, and Design Patterns.
-
-I’m also building hands-on experience with tools that every modern developer needs: GitHub for version control, Docker for containerization, TDD for writing reliable code, and Azure DevOps for efficient team collaboration and CI/CD.
-
-In addition to my back-end skills, I have experience with front-end basics like HTML, CSS, and the Bootstrap framework giving me a well rounded understanding of the full development process.
-
-What drives me every day is my love for problem-solving, my curiosity for how things work, and my desire to grow into a world-class software engineer.
-
-If you're looking for a motivated back-end developer who is committed to continuous improvement and delivering solid, effective solutions let’s connect and grow together
+  <img src="https://komarev.com/ghpvc/?username=DevElsayedChelsea&label=Profile%20views&color=0ea5e9&style=flat" />
+  <img src="https://img.shields.io/github/followers/DevElsayedChelsea?label=Followers&style=flat" />
 </p>
 
 ---
 
-## <picture><img src="https://github.com/mohamedsaeed138/mohamedsaeed138/raw/main/about_me.gif" width="50px"></picture> **About Me**
-- 👨‍💻 Aspiring Back-End .NET Developer | Future Software Engineer
-- 🌱 Currently focused on building robust back-end systems using:
-C# | ASP.NET Core | Entity Framework Core | SQL Server | RESTful APIs
-- 🧠 Passionate about writing clean, maintainable code and designing scalable software architectures.
-- 📚 Continuously learning best practices in back-end development and software design principles.
-- 🎯 Goal: Master .NET technologies and become a professional back-end engineer.
-- 🎯 Future Goals: I'm working towards becoming a professional .NET back-end engineer and design systems that scale efficiently and perform under pressure.
-- 💬 Ask me about my journey with .NET or the projects I’m working on!
-- 📫 Social links
-<p>
-<a href="https://www.facebook.com/profile.php?id=61562281187654&locale/"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/el-sayed-mohammed-286783261/"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-</p>
+## 🧠 About Me
+
+- 👨‍💻 .NET Backend Developer focused on building scalable APIs  
+- ⚙️ Working with **C#, ASP.NET Core, EF Core, SQL Server**  
+- 🧠 Applying **Clean Architecture, SOLID, Design Patterns**  
+- 🐳 Using **Docker, Git, CI/CD basics**  
+- ☁️ Exploring **Azure & Cloud Concepts**  
+- 🎯 Goal: Become a **Top-tier Software Engineer**
 
 ---
 
-### 🛠️ <strong>Back-End & Database:</strong><br>
-<!-- Back-End Database Skills -->
+## 🚀 Tech Stack
+
+### 💻 Backend
 <p align="left">
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,dapper" />
-  <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-300x300.png" width="50" height="50" alt="EF Core" />
-  <img src="https://dignitas.digital/wp-content/uploads/2022/01/SignalR.jpg" width="80" height="80" alt="SignalR" />
-  <img src="https://www.ubk.cz/wp-content/uploads/2020/03/microsoft-azure-vector-logo.png" width="80" height="80" alt="Azura" />
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
 </p>
 
-<strong>Front-End:</strong><br>
+### ⚡ Additional
 <p align="left">
-  <img height="75" src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
-#### 🔧 Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+### 🎨 Frontend
+<p 
+   align="left"> <img height="75" src="https://skillicons.dev/icons?i=html,css,bootstrap,js" /> 
 </p>
-
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=DevElsayedChelsea&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
 
 ---
 
-### 📊 Most Used Language
+## 📊 GitHub Analytics
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=DevElsayedChelsea&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevElsayedChelsea&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevElsayedChelsea&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevElsayedChelsea&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
- ### 🔗 &nbsp;Contact Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:develsayed9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/el-sayed-mohammed-286783261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚡ “وَقُل رَّبِّ زِدْنِي عِلْمًا” ⚡</h3>
 
 <div align="center">
-<a href="mailto:develsayed9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/el-sayed-mohammed-286783261/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9333ea,100:0ea5e9&section=footer"/>
 </div>
-
-<h5 align="center">سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر</h5>
-<h5 align="center">﴿ وَقُل رَّبِّ زِدْنِي عِلْمًا ﴾ </h5>
-
-
-------
