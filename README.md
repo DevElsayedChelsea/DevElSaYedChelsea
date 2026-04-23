@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm El-SaYed MoHameD</h1>
-<h3 align="center">🔥 .NET Backend Developer | Building Scalable Systems</h3>
+<h3 align="center">🔥 .NET Backend Developer | C# & ASP.NET Core | Clean Architecture | REST APIs</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Developer;C%23%20%7C%20ASP.NET%20Core;Clean%20Architecture%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=45">
